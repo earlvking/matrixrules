@@ -1,0 +1,16 @@
+host, api.biliapi.com, direct
+host, api.biliapi.net, direct
+host, api.bilibili.com, direct
+host, app.biliapi.com, direct
+host, app.biliapi.net, direct
+host, app.bilibili.com, direct
+host, grpc.biliapi.net, direct
+host, m.bilibili.com, direct
+host, upos-hz-mirrorakam.akamaized.net, direct
+host, www.bilibili.com, direct
+host-keyword, cn-hk-eq-bcache-, direct
+host, cache.video.iqiyi.com, direct
+ip-cidr, 116.211.202.206/32, direct
+ip-cidr, 116.211.202.216/32, direct
+host-suffix, api.mgtv.com, direct
+host, mobileso.bz.mgtv.com, direct
